@@ -1,3 +1,9 @@
+/**
+ * Demo for Family Tree
+ * 
+ * First version by Adam Lev-Ari
+ */
+
 #include "FamilyTree.hpp"
 
 int main()
