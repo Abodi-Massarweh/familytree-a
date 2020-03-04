@@ -8,7 +8,7 @@
 
 int main()
 {
-	familyTree T;
+	FamilyTree T;
 
 	T.addNew("adam", 'm');
 	T.addNew("hava", 'f', 'w', "adam");
