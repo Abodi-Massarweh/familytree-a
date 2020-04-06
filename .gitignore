@@ -35,3 +35,6 @@ solution*
 *.app
 demo
 test
+
+#CMake file (from CLion)
+CMakeLists.txt
