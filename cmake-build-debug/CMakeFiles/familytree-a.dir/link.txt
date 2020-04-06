@@ -1,0 +1,1 @@
+/usr/bin/clang++-9  -g   CMakeFiles/familytree-a.dir/Demo.cpp.o CMakeFiles/familytree-a.dir/TestCounter.cpp.o CMakeFiles/familytree-a.dir/TestExample.cpp.o CMakeFiles/familytree-a.dir/FamilyTree.cpp.o CMakeFiles/familytree-a.dir/Node.cpp.o CMakeFiles/familytree-a.dir/Test.cpp.o  -o familytree-a 
